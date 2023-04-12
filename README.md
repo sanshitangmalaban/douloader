@@ -1,3 +1,3 @@
-gs410406505ysu@163.com
-自己写的dataloader类用来多进程加载CT图像数据
-已经实现了python中iterator的相关方法
+作者邮箱：gs410406505ysu@163.com 
+一个多线程的dataloader类用来多进程加载CT图像数据
+已经实现了python中iterator类的相关方法，可以直接使用foreach结构进行访问。
